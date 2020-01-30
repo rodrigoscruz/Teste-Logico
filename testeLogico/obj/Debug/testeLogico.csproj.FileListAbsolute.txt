@@ -1,0 +1,6 @@
+C:\Users\rsstr\source\repos\testeLogico\testeLogico\bin\Debug\testeLogico.exe.config
+C:\Users\rsstr\source\repos\testeLogico\testeLogico\bin\Debug\testeLogico.exe
+C:\Users\rsstr\source\repos\testeLogico\testeLogico\bin\Debug\testeLogico.pdb
+C:\Users\rsstr\source\repos\testeLogico\testeLogico\obj\Debug\testeLogico.csprojAssemblyReference.cache
+C:\Users\rsstr\source\repos\testeLogico\testeLogico\obj\Debug\testeLogico.exe
+C:\Users\rsstr\source\repos\testeLogico\testeLogico\obj\Debug\testeLogico.pdb
